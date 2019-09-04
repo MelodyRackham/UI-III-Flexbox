@@ -173,6 +173,73 @@ header{
 }
 .bottom-content{
     display:flex;
-    
+
+}
+.services-header-img{
+    margin: 25px 0;
+
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+.serviceBox{
+    background: #EEE;
+	padding: 20px 20px;
+	margin: 20px 0;
+	border: 1px solid black;
+	width: 47%;
+
 }
 
+.serviceBoxes{
+    display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	margin: 45px 0;
+    padding: 30px 0;
+    line-height: 1.25;
+
+}
+.serviceBoxes button{
+    .service-box button 
+        font-family: 'Titillium Web', sans-serif;
+        font-size: 12px;
+        background: white;
+        margin-top: 20px;
+        padding: 8px 40px;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+    .serviceBox button:hover {
+        background: lightgrey;
+        font-weight: bold;
+        cursor: pointer;
+    }
+.about{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+
+
+}
+.about img{
+    width: 47%;
+}
+.about-left{
+    line-height: 1.25;
+    width: 47%;
+}
+.about ul{
+    list-style: square;
+    margin-top: 25px;
+}
+.about li{
+    padding: 5px;
+    margin-left: 22px;
+}
