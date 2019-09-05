@@ -251,6 +251,9 @@ header {
 .services-header-img {
   margin: 25px 0;
 }
+.vision-header-img {
+  margin: 25px 0;
+}
 h2 {
   font-size: 24px;
 }
@@ -258,7 +261,7 @@ h3 {
   font-size: 16px;
   padding-bottom: 5px;
 }
-.serviceBox {
+.visionBox {
   background: #eee;
   padding: 20px 20px;
   margin: 20px 0;
@@ -266,7 +269,7 @@ h3 {
   width: 47%;
 }
 
-.serviceBoxes {
+.visionBoxes {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
