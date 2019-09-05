@@ -262,10 +262,10 @@ h3 {
   padding-bottom: 5px;
 }
 .visionBox {
-  background: #eee;
+  background: lightblue;
   padding: 20px 20px;
   margin: 20px 0;
-  border: 1px solid black;
+  border: 3px dotted darkred;
   width: 47%;
 }
 
@@ -279,10 +279,10 @@ h3 {
   padding: 30px 0;
   line-height: 1.25;
 }
-.serviceBoxes button {
+.visionBoxes button {
   font-family: "Titillium Web", sans-serif;
   font-size: 12px;
-  background: white;
+  background: whitesmoke;
   margin-top: 20px;
   padding: 8px 40px;
   border: 1px solid black;
